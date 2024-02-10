@@ -1,3 +1,5 @@
 /jwtapi/node_modules/*
 /jwtapi/public/images/*
+/jwtapi/.env
+
 
